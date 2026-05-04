@@ -3,5 +3,33 @@
 {
     margin: 0;
     padding: 0;
+    font-family: Arial;
 }
 
+body { 
+    font-family: Arial, sans-serif;
+    background-color:beige;
+    color: #2f3e2f;
+
+}
+
+header {
+    background: color #2e7d32;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+}
+
+nav { 
+    margin-top: 10px;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: none;
+    
+
+
+}
