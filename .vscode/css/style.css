@@ -1,6 +1,6 @@
 /*Default style */
 
-body{
+body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif ;
@@ -8,13 +8,23 @@ body{
     background: color #2f3e2f;
 
 }
+main{ 
+    width: 100%;
+    background: #2f3e2f;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: Arial,  sans-serif;
+
+}
 /*Navigation links*/
-nav{
+nav {
     text-align: none;
-    color: white;
+    color: #2e7d32;
     background-color: #2e7d32;
     padding: 10px 15px;
-    margin: 5px;
+    margin: auto;
     display: inline-block;
     border-radius: 5px;
 }
@@ -33,7 +43,7 @@ header {
 }
 
 /*main hearder h1*/
-.img{ 
+.images { 
     display: block;
     margin: 20px auto;
     max-width: 100%;
@@ -54,6 +64,7 @@ header {
     border: 2px solid #ccc;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 2); 
 }
+
 
 
 
